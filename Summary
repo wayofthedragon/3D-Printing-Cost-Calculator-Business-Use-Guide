@@ -1,0 +1,23 @@
+// 3D Printing Cost Calculator: Business Use & Guide
+Purpose
+This calculator helps business owners evaluate the cost of producing parts in-house with a 3D printer. It provides a clear breakdown of expenses, showing how investment in a machine impacts per-part cost. Users can also include markup to plan retail pricing if selling parts.
+
+Inputs
+Machine Cost ($): Initial cost of the 3D printer. This value spreads across all parts produced. Set to zero if only calculating part costs for resale.
+Material Cost per KG ($): Price of filament or resin per kilogram.
+Material Weight per Part (G): The weight of each printed part in grams.
+Print Time per Unit (hours): Estimated time to print one part.
+Electricity Cost per kWh ($): The local electricity rate per kilowatt-hour.
+Power Consumption (kW): The printer’s power usage.
+Labor Cost per Part ($, optional): Any additional labor costs per unit.
+Markup (%, optional): A percentage increase for resale pricing.
+Outputs
+Material Cost: The cost of filament or resin per part.
+Electricity Cost: The energy cost to run the printer for one part.
+Labor Cost: The direct labor cost per unit (if applicable).
+Machine Cost Allocation: The share of the machine’s total cost assigned to each part.
+Total Cost per Part: The sum of all production costs, including markup if applied.
+Business Impact
+The calculator shows how the per-part cost decreases as more units are produced. This helps businesses determine how quickly a 3D printer investment pays off and when in-house production becomes cost-effective compared to outsourcing. By setting the machine cost to zero and adding a markup, businesses can also calculate optimal retail pricing for selling 3D-printed products.
+
+This tool enables informed decision-making on whether to manufacture parts internally or buy from external suppliers.
